@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&family=Poiret+One&family=Press+Start+2P&display=swap');
+
+
+.color_white{
+    color: whitesmoke;
+}
+
+.img_logo_head{
+    width: 18vw;
+}
+
+.linear-gradient1{
+    background-image:  linear-gradient(darkgrey, rgba(39, 50, 39, 1) );
+}
+
+.footer_img{
+    width: 1.2vw;
+    padding: 0.2vw 0 0 0;
+}
+
+.texto_iniciodeseccion{
+    font-family:'Oswald', sans-serif;
+    font-weight: 500;
+    color: white;
+    font-size: 10vw;
+ 
+}
+
+.backgroundVerde{
+    background-color:rgba(183, 222, 184, 1);
+}
+
+.colorVerde{
+    color:rgba(183, 222, 184, 1);
+
+}
+
+.backgrounRosa{
+    background-color:rgba(211, 147, 147, 1);
+
+}
+
+.colorRosa{
+    color:rgba(211, 147, 147, 1);
+
+}
+
+.titulo_iniciodeseccion{
+    font-size: 6vw;
+    font-family: 'Oswald', sans-serif ;
+}
+
+.flex_column{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.alink{
+    padding: 0rem 1rem ;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.backgrounCian{
+    background-color:rgba(153, 179, 209, 1);
+
+}
+
+.colorCian{
+    color:rgba(153, 179, 209, 1);
+
+}
+
+.backgrounBrouwn{
+    background-color:rgba(88, 64, 64, 1);
+
+}
+
+.colorBrouwn{
+    color:rgba(88, 64, 64, 1);
+
+}
